@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jay-Israel
+- 👋 Hi, I’m Jay-Israel
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking  forward to collaborate with other software developers
