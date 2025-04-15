@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Israel
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking  forward to collaborate with other software developers
 - 📫 How to reach me oluwasegunisrael20@gmail.com
 - 😄 Pronouns: Mr
