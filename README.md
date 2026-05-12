@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineer 
 - 🌱 I’m currently expanding my knowledge on fullstack-software Engineering 
 - 💞️ I’m looking  forward to collaborate with other software developers to make amazing content
-- 📫 How to reach me oluwasegunisrael20@gmail.com
+- 📫 How to reach me Email-oluwasegunisrael20@gmail.com ||  www.linkedin.com/in/joshua-ajagbe-9723a73b3
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I love God, and Love music
 
