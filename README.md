@@ -4,7 +4,7 @@
 - 💞️ I’m looking  forward to collaborate with other software Engineers/Developers to build amazing systems and solve problems for the greater good.
 - 📫 How to reach me Email-oluwasegunisrael20@gmail.com ||  www.linkedin.com/in/joshua-ajagbe-9723a73b3
 - 😄 Pronouns: Mr
-- ⚡ Fun fact: I love God, and Love music
+- ⚡ Fun fact: I love God, music, and computers
 
 <!---
 Jay-Israel/Jay-Israel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
